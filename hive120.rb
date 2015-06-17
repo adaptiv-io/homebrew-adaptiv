@@ -1,5 +1,4 @@
 class Hive120 < Formula
-  desc "Hadoop-based data summarization, query, and analysis"
   homepage 'https://hive.apache.org'
   url 'https://www.apache.org/dyn/closer.cgi?path=hive/hive-1.2.0/apache-hive-1.2.0-bin.tar.gz'
   sha256 "38569761590b68e11aab950cffb8af39fd11bc923e65ad7415aa0b080796ef0d"
